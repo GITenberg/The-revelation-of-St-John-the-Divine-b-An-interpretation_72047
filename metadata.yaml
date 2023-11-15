@@ -1,0 +1,26 @@
+_repo: The-revelation-of-St-John-the-Divine-b-An-interpretation_72047
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ames, Alfred H.
+    gutenberg_agent_id: '56517'
+    url: http://www.gutenberg.org/2009/agents/56517
+description: ''
+gutenberg_issued: '2023-11-06'
+identifiers:
+  gutenberg: '72047'
+language: en
+pgterms:marc904: https://archive.org/details/revelationofstjo00ame
+pgterms:marc905: 20181030110439ames
+pgterms:marc906: '1897'
+pgterms:marc907: US
+production_note: Richard Hulse and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bEaton & Mains Press, $c1897.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The revelation of St. John the Divine : $b An interpretation'
+url: http://www.gutenberg.org/ebooks/72047
